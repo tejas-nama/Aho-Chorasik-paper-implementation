@@ -88,7 +88,7 @@ There is no dependency manifest or package installation step. Create and activat
 If you have the Git hosting URL, clone the repository and change into its directory:
 
 ```bash
-git clone <repository-url>
+git clone (https://github.com/tejas-nama/Aho-Chorasik-paper-implementation)
 cd <repository-directory>
 ```
 
