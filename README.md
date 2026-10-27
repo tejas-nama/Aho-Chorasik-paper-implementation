@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Aho–Corasick Multi-Pattern Search Benchmark
 
 This project implements the Aho–Corasick string-search algorithm and a brute-force baseline, then benchmarks their behavior on generated DNA-like text and patterns.
@@ -242,3 +243,6 @@ No license file or license declaration is included. The project's license is **T
 ## Contact
 
 No verified author contact details or project links are included. **TODO: add maintainer name or contact information if desired.**
+=======
+# Aho-Chorasik-paper-implementation
+>>>>>>> af61cf06fca31785ee28f647ec76d08d134d106f
